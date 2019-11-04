@@ -2,11 +2,9 @@ package com.kanabeev.courseapi.service;
 
 import com.kanabeev.courseapi.domain.Topic;
 import com.kanabeev.courseapi.repository.TopicRepository;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.Arrays;
 import java.util.List;
 
 @Service
